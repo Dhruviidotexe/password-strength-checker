@@ -4,7 +4,7 @@
 
 **Live Demo:** [Open Password Strength Checker](https://password-strength-checker-five-gules.vercel.app)
 
-**Author:** [Dhruvi Verma](https://github.com/Dhruviidotexe)
+**Author:** [Dhruvi](https://github.com/Dhruviidotexe)
 
 **Status:** 🟢 Deployed & Working
 
@@ -30,7 +30,7 @@ The application is deployed and available online:
 
 ## Author
 
-**Dhruvi Verma**
+**Dhruvi**
 
 MCA Student | Cybersecurity & Software Development
 
